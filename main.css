@@ -562,6 +562,8 @@ footer {
   animation: glow 3s ease-in-out infinite alternate;
   background: linear-gradient(90deg, #ff8633 -40%, black 50%, #ff8633 140%);
   text-align: center;
+  position: sticky;
+  position: -webkit-sticky;
   padding-bottom: 15px;
 }
 .sm-handle {
